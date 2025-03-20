@@ -106,7 +106,7 @@ fun SlideShow(modifier: Modifier = Modifier) {
             }
         }
 
-        Spacer(modifier = Modifier.height(16.dp))
+        Spacer(modifier = Modifier.height(20.dp))
 
         // Jump to Specific Image
         TextField(
