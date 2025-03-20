@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Slideshow-app</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="image_search">Jump to Image</string>
+    <string name="goToImage">Go</string>
+</resources>
