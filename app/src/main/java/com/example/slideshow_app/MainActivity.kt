@@ -52,7 +52,8 @@ fun SlideShow(modifier: Modifier = Modifier) {
         modifier = modifier
             .fillMaxSize()
             .padding(16.dp),
-        horizontalAlignment = Alignment.CenterHorizontally
+        horizontalAlignment = Alignment.CenterHorizontally,
+        verticalArrangement = Arrangement.Center // Center content vertically
     ) {
         // Display Image
         Image(
